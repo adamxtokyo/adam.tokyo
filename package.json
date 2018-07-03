@@ -1,0 +1,24 @@
+{
+  "name": "adam.tokyo",
+  "version": "0.0.1",
+  "description": "My personal website.",
+  "engines": {
+    "node": "10.2.0",
+    "npm": "6.1.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamxtokyo/adam.tokyo.git"
+  },
+  "author": "Adam Grawender",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamxtokyo/adam.tokyo/issues"
+  },
+  "homepage": "https://adam.tokyo/"
+}
